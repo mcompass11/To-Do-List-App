@@ -42,7 +42,7 @@ ol li {padding: 5px;color:#000;}
 
 ol li:nth-child(even){background: #dfdfdf;}
 
-.strike{text-decoration: line-through;}
+.strike{text-decoration: line-through; text-decoration-color: #e10508;}
 
 li:hover{
   cursor: pointer;
